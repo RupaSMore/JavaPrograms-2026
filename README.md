@@ -9,6 +9,7 @@
 - Immutable strings
 - Heap area and string constant pool
 - Math function -inbult function which we need to import from java.lang.Math;
-- Loops - 1. if else
-        - 2. For Loop
-        - 3. Do while Loop        
+- Conditions - 1. if else 2. switch
+- Loops 
+        - 1. For Loop
+        - 2. Do while Loop        
