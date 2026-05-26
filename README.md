@@ -10,6 +10,6 @@
 - Heap area and string constant pool
 - Math function -inbult function which we need to import from java.lang.Math;
 - Conditions - 1. if else 2. switch
-- Loops 
-        - 1. For Loop
+- Loops  - 1. For Loop
         - 2. Do while Loop        
+-Arrays
