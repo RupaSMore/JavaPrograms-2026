@@ -2,3 +2,12 @@
 - All java programs practice
 - Simple main program
 - Data types
+-Local Variable
+- Final keyword
+- Operators
+- Strings
+- Immutable strings
+- Heap area and string constant pool
+- Math function -inbult function which we need to import from java.lang.Math;
+- Loops
+- 
