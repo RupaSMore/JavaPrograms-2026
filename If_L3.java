@@ -1,0 +1,15 @@
+package Ex_May26_Loops;
+
+public class If_L3 {
+    public static void main(String[] args) {
+        boolean b =!true;
+
+        if (b)
+        {
+            System.out.println(" b is true");
+        } else
+        {
+            System.out.println(" b is false");
+        }
+    }
+}
