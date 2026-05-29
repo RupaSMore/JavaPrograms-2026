@@ -11,5 +11,8 @@
 - Math function -inbult function which we need to import from java.lang.Math;
 - Conditions - 1. if else 2. switch
 - Loops  - 1. For Loop
-         - 2. Do while Loop        
+         - 2. While Loop
+         - 3. Do while Loop        
+- Functions
 - Arrays
+- String Builder & String Buffer
